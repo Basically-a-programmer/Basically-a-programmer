@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basically-a-programmer
-- 👀 I’m interested in ...securituy,development,AI and ML
+- 👀 I’m interested in ...security,development,AI and ML
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...791shivamsingh@gmail.com
